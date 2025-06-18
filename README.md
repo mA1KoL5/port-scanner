@@ -13,7 +13,7 @@ This is a simple Python script that scans a target IP address or hostname for th
    ```bash
     port-scanner.py
 
-![Screenshot of port scanner output](image_2025_06_18_164347158.png)
+![Screenshot of port scanner output](image_2025-06-18_164347158.png)
 
 
 
